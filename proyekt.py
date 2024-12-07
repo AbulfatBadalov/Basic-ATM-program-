@@ -1,4 +1,5 @@
 #Bankamat
+import streamlit as st
 while True:
   a=int(input("mebleg daxil edin: "))
   b=int(input("1.Pul kocurme Emeliyyati\n2.Cari Balans\n3Balans artirma\n4Cixis\n. "))
